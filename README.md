@@ -1,5 +1,5 @@
-# PvZ Quality of the Lawn-Decompile
- A edit of the PvZ Decompile that adds QoL features
+# PvZ Quality of the Lawn-Compiled
+ A edit of the PvZ Decompile with QoL features to make it compiled
 
 # Credits:
 Electr0Gunner.
